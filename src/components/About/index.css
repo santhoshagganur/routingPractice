@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.show-image {
+  height: 30vh;
+  background-size: cover;
+}
+
+.heading {
+  color: #12022f;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.about-me {
+  color: #555555;
+  font-size: 15px;
+  font-family: Roboto;
+}

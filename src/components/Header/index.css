@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.app-container {
+  display: flex;
+}
+
+.logo {
+  height: 25px;
+  background-size: cover;
+  margin-right: 10px;
+  margin-top: 15px;
+}
+
+.app-name {
+  color: #12022f;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.tabs-container {
+  display: flex;
+  list-style-type: none;
+}
+
+.tab-item {
+  margin-right: 15px;
+  color: #12022f;
+  font-size: 20px;
+  font-weight: 500;
+}
